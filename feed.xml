@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>magpie-runtime</title>
+  <subtitle>Official architecture documentation and production specifications for magpie-runtime</subtitle>
+  <link href="https://Shijiuwei.github.io/magpie-runtime/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/magpie-runtime/</id>
+  <updated>2026-11-16T20:21:06.795139200+00:00</updated>
+  <entry>
+    <title>magpie-runtime Architecture Overview</title>
+    <link href="https://Shijiuwei.github.io/magpie-runtime/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/magpie-runtime/docs/architecture.html</id>
+    <updated>2026-11-16T20:21:06.795139200+00:00</updated>
+    <summary>Official architecture documentation and production specifications for magpie-runtime</summary>
+  </entry>
+  <entry>
+    <title>magpie-runtime Technical Specifications</title>
+    <link href="https://Shijiuwei.github.io/magpie-runtime/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/magpie-runtime/docs/specifications.html</id>
+    <updated>2026-11-16T20:21:06.795139200+00:00</updated>
+    <summary>Operational contracts, configuration defaults, and interface guarantees for magpie-runtime.</summary>
+  </entry>
+  <entry>
+    <title>System Topology &amp; Integration Guide</title>
+    <link href="https://Shijiuwei.github.io/magpie-runtime/docs/topology-guide.html"/>
+    <id>https://Shijiuwei.github.io/magpie-runtime/docs/topology-guide.html</id>
+    <updated>2026-11-16T20:21:06.795139200+00:00</updated>
+    <summary>Practical integration guide for configuring magpie-runtime across local and distributed environments.</summary>
+  </entry>
+</feed>

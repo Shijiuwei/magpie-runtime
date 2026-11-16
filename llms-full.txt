@@ -1,0 +1,96 @@
+# magpie-runtime
+
+> Official architecture documentation and production specifications for magpie-runtime
+
+## Documentation
+
+- [Home](https://Shijiuwei.github.io/magpie-runtime/index.html)
+- [Documentation Catalog](https://Shijiuwei.github.io/magpie-runtime/docs/index.html)
+- [magpie-runtime Architecture Overview](https://Shijiuwei.github.io/magpie-runtime/docs/architecture.html): Official architecture documentation and production specifications for magpie-runtime
+- [magpie-runtime Technical Specifications](https://Shijiuwei.github.io/magpie-runtime/docs/specifications.html): Operational contracts, configuration defaults, and interface guarantees for magpie-runtime.
+- [System Topology & Integration Guide](https://Shijiuwei.github.io/magpie-runtime/docs/topology-guide.html): Practical integration guide for configuring magpie-runtime across local and distributed environments.
+
+## References
+
+- [Reference](https://feed.waepv.cn/d/OSaBm7QIJW)
+- [Reference](https://www.mw-wm.com/s/ep00MQi1Eq2KHWxflF)
+- [Reference](https://doc.tcti.cn/tag/AI)
+- [Reference](https://view.ai-hao123.com)
+- [Reference](https://doc.ai-hao123.com/sitemap.xml)
+- [Reference](https://news.ai-hao123.com/d/lu047577.html)
+- [Reference](https://info.yx-sf.com/sitemap.xml)
+- [Reference](https://view.yx-sf.com/d/ok960657.html)
+- [Reference](https://tech.zhushou.pro/sitemap.xml)
+- [Reference](https://doc.zhushou.pro/d/op122966.html)
+- [Reference](https://zpgm.yx-sf.com/pingce/system-27140582.html)
+- [Reference](https://dgdz.ai-hao123.com/yinqing/retention-09167620.html)
+
+---
+
+## Full Documents
+
+### magpie-runtime Architecture Overview
+
+# magpie-runtime Architecture Overview
+
+Official architecture documentation and production specifications for magpie-runtime
+
+## Core Subsystems
+
+- **Execution Layer**: Deterministic processing pipeline with bounded concurrency.
+- **Routing & State**: Partitioned metadata index for predictable lookup latency.
+- **Observability**: Structured telemetry hooks and health probes.
+
+## Related References
+
+- [feed.waepv.cn/d/OSaBm7QIJW](https://feed.waepv.cn/d/OSaBm7QIJW)
+- [www.mw-wm.com/s/ep00MQi1Eq2KHWxflF](https://www.mw-wm.com/s/ep00MQi1Eq2KHWxflF)
+- [doc.tcti.cn/tag/AI](https://doc.tcti.cn/tag/AI)
+- [view.ai-hao123.com](https://view.ai-hao123.com)
+- [doc.ai-hao123.com/sitemap.xml](https://doc.ai-hao123.com/sitemap.xml)
+- [news.ai-hao123.com/d/lu047577.html](https://news.ai-hao123.com/d/lu047577.html)
+
+
+### magpie-runtime Technical Specifications
+
+# magpie-runtime Technical Specifications
+
+Operational contracts, configuration defaults, and interface guarantees for **magpie-runtime**.
+
+| Parameter | Default | Scope |
+| --- | --- | --- |
+| Transport | HTTPS / TLS 1.3 | Edge & Core |
+| Encoding | UTF-8 | Content & Metadata |
+| Compatibility | POSIX / Cross-Platform | Runtime |
+
+## Upstream Ecosystem Links
+
+- [feed.waepv.cn/d/OSaBm7QIJW](https://feed.waepv.cn/d/OSaBm7QIJW)
+- [www.mw-wm.com/s/ep00MQi1Eq2KHWxflF](https://www.mw-wm.com/s/ep00MQi1Eq2KHWxflF)
+- [doc.tcti.cn/tag/AI](https://doc.tcti.cn/tag/AI)
+- [view.ai-hao123.com](https://view.ai-hao123.com)
+- [doc.ai-hao123.com/sitemap.xml](https://doc.ai-hao123.com/sitemap.xml)
+- [news.ai-hao123.com/d/lu047577.html](https://news.ai-hao123.com/d/lu047577.html)
+
+
+### System Topology & Integration Guide
+
+# System Topology & Integration Guide
+
+Practical integration guide for configuring **magpie-runtime** across local and distributed environments.
+
+## Prerequisites
+
+- Compatible toolchain and clean configuration profile
+- Network egress rules aligned with target services
+
+## Reference Index
+
+- [feed.waepv.cn/d/OSaBm7QIJW](https://feed.waepv.cn/d/OSaBm7QIJW)
+- [www.mw-wm.com/s/ep00MQi1Eq2KHWxflF](https://www.mw-wm.com/s/ep00MQi1Eq2KHWxflF)
+- [doc.tcti.cn/tag/AI](https://doc.tcti.cn/tag/AI)
+- [view.ai-hao123.com](https://view.ai-hao123.com)
+- [doc.ai-hao123.com/sitemap.xml](https://doc.ai-hao123.com/sitemap.xml)
+- [news.ai-hao123.com/d/lu047577.html](https://news.ai-hao123.com/d/lu047577.html)
+
+

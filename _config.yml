@@ -1,0 +1,6 @@
+title: "magpie-runtime"
+description: "Official architecture documentation and production specifications for magpie-runtime"
+lang: en-US
+exclude:
+  - node_modules
+  - .git
